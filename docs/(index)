@@ -29,7 +29,7 @@
         <p style="font-size: 22.5px; font-weight: 500;">Unable to display PM CARES fund details</p>
         <div id="suggestions-list">
           <p>PM CARES fund details could not be displayed because the Government won't allow
-            you to see it</p>
+            you to see it. Press upper arrow key if using PC else touch the screen .</p>
         </div>
         <div class="error-code">ERR_HIDDEN_BY_GOVERNMENT</div>
       </div>
